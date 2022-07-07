@@ -18,17 +18,15 @@ https://www.youtube.com/shorts/3OsT-79akc4
 ## Examples
 
 ### Halo by Beyonce
-![](Beyoncé%20-%20Halo-[AudioTrimmer.com].mp3)
+![](Beyonce-halo.webm)
 
 ### Hello by Adele
-![](Adele%20-%20Hello.mp3)
+![](Adele-hello.webm)
 
 ### Never enough by Loren Allred
-![](The%20Greatest%20Showman%20-%20Never%20Enough%20Lyric%20Video%20(1)-[AudioTrimmer.com].mp3)
+![](NeverEnough.webm)
 
 ### Ojos así by Shakira
-![](Shakira%20-%20Ojos%20Así%20(Official%20HD%20Video)-[AudioTrimmer.com].mp3)
-
-
+![](Shakira-ojos-asi.webm)
 
 
