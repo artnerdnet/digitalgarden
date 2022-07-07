@@ -10,9 +10,6 @@
     "typescript",
     "obsidian"
   ],
-  "engines": {
-    "node": "14.15.0"
-  },
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
