@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "859ca9febb474bbf",
+        "id": "8e1f6734a1c2209d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Yodel or head voice flips.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -97,7 +97,7 @@
     "direction": "horizontal",
     "width": 170
   },
-  "active": "859ca9febb474bbf",
+  "active": "8e1f6734a1c2209d",
   "lastOpenFiles": [
     "Yodel or head voice flips.md",
     "Changelog.md",
