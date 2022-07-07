@@ -32,4 +32,9 @@ https://www.youtube.com/shorts/3OsT-79akc4
 ![](Shakira-ojos-asi.wav)
 
 
-![](Recording%2020220707213339.webm)
+
+### Hello by Adele
+`audio: Adele-hello.wav`
+`audio: Beyonce-halo.wav`
+`audio: NeverEnough.wav`
+`audio: Shakira-ojos-asi.wav`

@@ -13,6 +13,23 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-react-helmet",
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: 'gatsby-remark-audio',
+            options: {
+              preload: 'auto',
+              loop: true,
+              controls: true,
+              muted: false,
+              autoplay: false
+            }
+          }
+        ]
+      }
+    },
     "gatsby-plugin-sitemap",
     "gatsby-plugin-postcss",
     {
