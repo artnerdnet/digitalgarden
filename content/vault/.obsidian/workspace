@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "504a6bdd21ab61a1",
+        "id": "0bf93d4f71ceb27d",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -97,17 +97,17 @@
     "direction": "horizontal",
     "width": 170
   },
-  "active": "504a6bdd21ab61a1",
+  "active": "0bf93d4f71ceb27d",
   "lastOpenFiles": [
     "Yodel or head voice flips.md",
+    "![](Shakira-ojos-asi.wav).md",
+    "picture.jpg.md",
     "Glossary.md",
     "Beyoncé - Halo-[AudioTrimmer.com].mp3.md",
     "mac/Dotfiles.md",
     "Design OKR.md",
     "OKR.md",
     "web/Googe Lighthouse Score.md",
-    "Getting Started.md",
-    "Digital Garden.md",
-    "Frustrating UX Pattern.md"
+    "Getting Started.md"
   ]
 }
