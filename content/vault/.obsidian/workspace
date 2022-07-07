@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Yodel or head voice flips.md",
+            "file": "Glossary.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yodel or head voice flips.md",
+                "file": "Glossary.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,9 +99,9 @@
   },
   "active": "504a6bdd21ab61a1",
   "lastOpenFiles": [
+    "Glossary.md",
     "Yodel or head voice flips.md",
     "Beyoncé - Halo-[AudioTrimmer.com].mp3.md",
-    "Changelog.md",
     "mac/Dotfiles.md",
     "Design OKR.md",
     "OKR.md",

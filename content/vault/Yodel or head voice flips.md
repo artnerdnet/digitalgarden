@@ -18,15 +18,18 @@ https://www.youtube.com/shorts/3OsT-79akc4
 ## Examples
 
 ### Halo by Beyonce
-![](Beyonce-halo.webm)
+![[Beyonce-halo.webm]]
 
 ### Hello by Adele
-![](Adele-hello.webm)
+![[Adele-hello.webm]]
 
 ### Never enough by Loren Allred
-![](NeverEnough.webm)
+![[NeverEnough.webm]]
 
 ### Ojos así by Shakira
 ![](Shakira-ojos-asi.webm)
 
 
+
+
+Yodel
